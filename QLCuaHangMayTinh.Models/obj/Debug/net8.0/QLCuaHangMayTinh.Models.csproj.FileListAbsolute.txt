@@ -1,0 +1,11 @@
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\bin\Debug\net8.0\QLCuaHangMayTinh.Models.deps.json
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\bin\Debug\net8.0\QLCuaHangMayTinh.Models.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\bin\Debug\net8.0\QLCuaHangMayTinh.Models.pdb
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\refint\QLCuaHangMayTinh.Models.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\QLCuaHangMayTinh.Models.pdb
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.Models\obj\Debug\net8.0\ref\QLCuaHangMayTinh.Models.dll

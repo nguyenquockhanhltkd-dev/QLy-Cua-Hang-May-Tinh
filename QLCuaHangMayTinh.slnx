@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QLCuaHangMayTinh.BLL/QLCuaHangMayTinh.BLL.csproj" />
+  <Project Path="QLCuaHangMayTinh.DAL/QLCuaHangMayTinh.DAL.csproj" />
+  <Project Path="QLCuaHangMayTinh.Models/QLCuaHangMayTinh.Models.csproj" />
+  <Project Path="QLCuaHangMayTinh.UI/QLCuaHangMayTinh.UI.csproj" />
+</Solution>

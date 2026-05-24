@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\bin\Debug\net8.0\QLCuaHangMayTinh.DAL.deps.json
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\bin\Debug\net8.0\QLCuaHangMayTinh.DAL.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\bin\Debug\net8.0\QLCuaHangMayTinh.DAL.pdb
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\bin\Debug\net8.0\QLCuaHangMayTinh.Models.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\bin\Debug\net8.0\QLCuaHangMayTinh.Models.pdb
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHan.727845E5.Up2Date
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\refint\QLCuaHangMayTinh.DAL.dll
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\QLCuaHangMayTinh.DAL.pdb
+C:\Users\admin\OneDrive\Desktop\.Net\Project-qu-n-l-c-a-h-ng-m-y-t-nh-m-n.Net--main\project\QLCuaHangMayTinh.DAL\obj\Debug\net8.0\ref\QLCuaHangMayTinh.DAL.dll
