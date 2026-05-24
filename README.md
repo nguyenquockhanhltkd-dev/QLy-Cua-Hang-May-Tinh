@@ -8,38 +8,38 @@ Phần mềm **Quản Lý Cửa Hàng Máy Tính** — ứng dụng desktop xây
 
 ## 📋 Tính Năng Chính
 
-| Module | Chức năng |
-|---|---|
-| 🔐 **Đăng nhập** | Xác thực BCrypt, phân quyền Admin / Staff |
-| 📦 **Sản phẩm** | CRUD sản phẩm + tab thông số kỹ thuật theo từng loại (Laptop, Desktop, Monitor…) |
-| 🏷️ **Danh mục** | Quản lý danh mục sản phẩm |
-| 🏭 **Nhà cung cấp** | CRUD + lịch sử nhập hàng theo NCC |
-| 📥 **Nhập kho** | Tạo phiếu nhập → xác nhận → cập nhật tồn kho & giá vốn |
-| 📤 **Xuất kho** | Tạo phiếu xuất → kiểm tra tồn khả dụng → xác nhận → trừ tồn |
-| 🛒 **Đơn hàng** | Đơn bán online: chọn SP, nhập thông tin KH, xác nhận → trừ tồn |
-| 📊 **Tồn kho** | Xem tồn kho, cảnh báo sắp hết, chi tiết lô hàng |
-| 📈 **Báo cáo** | KPI tổng quan, biểu đồ doanh thu, thống kê nhập/xuất, top sản phẩm |
-| 👤 **Người dùng** | Quản lý tài khoản (Admin only), reset mật khẩu |
+| Module              | Chức năng                                                                        |
+| ------------------- | -------------------------------------------------------------------------------- |
+| 🔐 **Đăng nhập**    | Xác thực BCrypt, phân quyền Admin / Staff                                        |
+| 📦 **Sản phẩm**     | CRUD sản phẩm + tab thông số kỹ thuật theo từng loại (Laptop, Desktop, Monitor…) |
+| 🏷️ **Danh mục**     | Quản lý danh mục sản phẩm                                                        |
+| 🏭 **Nhà cung cấp** | CRUD + lịch sử nhập hàng theo NCC                                                |
+| 📥 **Nhập kho**     | Tạo phiếu nhập → xác nhận → cập nhật tồn kho & giá vốn                           |
+| 📤 **Xuất kho**     | Tạo phiếu xuất → kiểm tra tồn khả dụng → xác nhận → trừ tồn                      |
+| 🛒 **Đơn hàng**     | Đơn bán online: chọn SP, nhập thông tin KH, xác nhận → trừ tồn                   |
+| 📊 **Tồn kho**      | Xem tồn kho, cảnh báo sắp hết, chi tiết lô hàng                                  |
+| 📈 **Báo cáo**      | KPI tổng quan, biểu đồ doanh thu, thống kê nhập/xuất, top sản phẩm               |
+| 👤 **Người dùng**   | Quản lý tài khoản (Admin only), reset mật khẩu                                   |
 
 ### Phân Quyền
 
-| Role | Quyền hạn |
-|---|---|
+| Role      | Quyền hạn                                          |
+| --------- | -------------------------------------------------- |
 | **Admin** | Toàn quyền: CRUD tất cả, xem báo cáo, quản lý user |
-| **Staff** | Nhập/xuất kho, đơn hàng, xem sản phẩm & tồn kho |
+| **Staff** | Nhập/xuất kho, đơn hàng, xem sản phẩm & tồn kho    |
 
 ---
 
 ## 🛠️ Công Nghệ Sử Dụng
 
-| Thành phần | Chi tiết |
-|---|---|
-| Ngôn ngữ | C# (.NET 8) |
-| UI | Windows Forms (WinForms) |
-| Database | SQL Server 2016+ |
-| ORM | ADO.NET thuần (không dùng Entity Framework) |
-| Bảo mật | BCrypt.Net-Next (hash mật khẩu) |
-| Kiến trúc | 3 lớp: Models → DAL → BLL → UI |
+| Thành phần | Chi tiết                                    |
+| ---------- | ------------------------------------------- |
+| Ngôn ngữ   | C# (.NET 8)                                 |
+| UI         | Windows Forms (WinForms)                    |
+| Database   | SQL Server 2016+                            |
+| ORM        | ADO.NET thuần (không dùng Entity Framework) |
+| Bảo mật    | BCrypt.Net-Next (hash mật khẩu)             |
+| Kiến trúc  | 3 lớp: Models → DAL → BLL → UI              |
 
 ---
 
@@ -100,21 +100,23 @@ private const string ConnectionString =
 
 **Các giá trị Server phổ biến:**
 
-| Loại SQL Server | Giá trị Server |
-|---|---|
-| SQL Server Developer/Express mặc định | `localhost` hoặc `.` |
-| SQL Server Express | `.\SQLEXPRESS` hoặc `localhost\SQLEXPRESS` |
-| Named instance | `TEN_MAY\TEN_INSTANCE` |
+| Loại SQL Server                       | Giá trị Server                             |
+| ------------------------------------- | ------------------------------------------ |
+| SQL Server Developer/Express mặc định | `localhost` hoặc `.`                       |
+| SQL Server Express                    | `.\SQLEXPRESS` hoặc `localhost\SQLEXPRESS` |
+| Named instance                        | `TEN_MAY\TEN_INSTANCE`                     |
 
 ### Bước 4 — Mở & Chạy Dự Án
 
 **Cách 1 — Visual Studio 2022 (khuyên dùng):**
+
 1. Mở Visual Studio 2022
 2. Chọn **File → Open → Project/Solution**
 3. Chọn file `project/QLCuaHangMayTinh.slnx`
 4. Nhấn **F5** hoặc bấm nút ▶ **Start** để build và chạy
 
 **Cách 2 — Command Line:**
+
 ```bash
 cd project
 dotnet build
@@ -125,21 +127,21 @@ dotnet run --project QLCuaHangMayTinh.UI
 
 Sau khi chạy, dùng tài khoản mặc định:
 
-| Thông tin | Giá trị |
-|---|---|
-| Username | `admin` |
-| Password | `Admin@123` |
+| Thông tin | Giá trị     |
+| --------- | ----------- |
+| Username  | `admin`     |
+| Password  | `Admin@123` |
 
 ---
 
 ## 📸 Giao Diện
 
-| Màn hình | Mô tả |
-|---|---|
-| Dashboard | KPI tổng quan tháng, biểu đồ doanh thu 12 tháng |
-| Sản phẩm | Danh sách, tìm kiếm, highlight hàng sắp hết |
+| Màn hình        | Mô tả                                                |
+| --------------- | ---------------------------------------------------- |
+| Dashboard       | KPI tổng quan tháng, biểu đồ doanh thu 12 tháng      |
+| Sản phẩm        | Danh sách, tìm kiếm, highlight hàng sắp hết          |
 | Nhập / Xuất kho | Form chi tiết phiếu, kiểm tra tồn khả dụng real-time |
-| Báo cáo | 4 tab: Tổng quan, Nhập, Xuất, Top sản phẩm |
+| Báo cáo         | 4 tab: Tổng quan, Nhập, Xuất, Top sản phẩm           |
 
 ---
 
@@ -162,21 +164,23 @@ Suppliers ──── ImportOrders ── ImportOrderDetails
 
 ## 📦 NuGet Packages
 
-| Package | Project | Mục đích |
-|---|---|---|
-| `Microsoft.Data.SqlClient` 5.x | DAL | Kết nối SQL Server |
-| `BCrypt.Net-Next` 4.x | BLL | Hash mật khẩu |
+| Package                        | Project | Mục đích           |
+| ------------------------------ | ------- | ------------------ |
+| `Microsoft.Data.SqlClient` 5.x | DAL     | Kết nối SQL Server |
+| `BCrypt.Net-Next` 4.x          | BLL     | Hash mật khẩu      |
 
 ---
 
 ## 🐛 Lỗi Thường Gặp
 
 **Lỗi kết nối database:**
+
 > `A network-related or instance-specific error occurred...`
 
 → Kiểm tra lại tên Server trong `DBConnection.cs`. Đảm bảo SQL Server đang chạy (Services → SQL Server).
 
 **Lỗi build thiếu package:**
+
 ```bash
 cd project
 dotnet restore
@@ -184,6 +188,7 @@ dotnet restore
 
 **SQL Server không nhận Windows Auth:**
 → Thêm `Integrated Security=True` hoặc dùng SQL Auth:
+
 ```
 Server=localhost;Database=QLCuaHangMayTinh;User Id=sa;Password=YourPassword;TrustServerCertificate=True;
 ```
@@ -192,7 +197,7 @@ Server=localhost;Database=QLCuaHangMayTinh;User Id=sa;Password=YourPassword;Trus
 
 ## 👨‍💻 Tác Giả
 
-**Lương Quốc Huy** — Sinh viên ngành Công nghệ thông tin
+**NguyenQuocKhanh** — Sinh viên ngành Công nghệ thông tin
 
 ---
 
